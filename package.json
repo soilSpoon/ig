@@ -10,7 +10,7 @@
     "@next/env": "^10.2.3"
   },
   "devDependencies": {
-    "eslint": "^7.28.0",
+    "eslint": "7.29.0",
     "eslint-config-next": "^10.2.3",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.0",
