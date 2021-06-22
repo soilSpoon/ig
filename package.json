@@ -7,11 +7,11 @@
   "dependencies": {
     "instagram_mqtt": "^1.2.1",
     "instagram-private-api": "github:dilame/instagram-private-api",
-    "@next/env": "^10.2.3"
+    "@next/env": "11.0.1"
   },
   "devDependencies": {
     "eslint": "^7.28.0",
-    "eslint-config-next": "^10.2.3",
+    "eslint-config-next": "11.0.1",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.0",
     "prettier": "2.3.1",
